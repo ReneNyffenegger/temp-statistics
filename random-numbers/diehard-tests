@@ -1,1 +1,2 @@
  Diehard tests are a battery of tests to measure the quality of a random number generator.
+   --> forked to https://github.com/ReneNyffenegger/diehard.c
